@@ -1,0 +1,17 @@
+p{
+color: darkolivegreen;
+font-style: normal;
+font-size: 40px;
+text-decoration: double;
+letter-spacing: 10px;
+word-spacing: 20px;
+
+}
+h2{
+    color:cadetblue;
+    font-size: 30px;
+    font-style: initial;
+    text-decoration: dotted;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+}
