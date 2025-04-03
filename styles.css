@@ -1,4 +1,4 @@
-p{
+/* p{
 color: darkolivegreen;
 font-style: normal;
 font-size: 40px;
@@ -14,4 +14,24 @@ h2{
     text-decoration: dotted;
     letter-spacing: 10px;
     word-spacing: 20px;
+} */
+.para1
+{
+ color: darkslategray;
+ font-size: 40px;
+ font-style: oblique;
+ text-decoration: line-through;
+}
+#para3
+{
+    color: crimson;
+      font-style: normal;
+      font-size: 30px;
+      text-decoration: wavy;
+      border-width: 5px; 
+      border-color: rosybrow;
+      border-style: double;
+      border: 7px double gray;
+      padding: 10px;
+      margin: 20px;
 }
