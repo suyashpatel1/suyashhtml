@@ -15,7 +15,7 @@ h2{
     letter-spacing: 10px;
     word-spacing: 20px;
 } */
-.para1
+/* .para1
 {
  color: darkslategray;
  font-size: 40px;
@@ -34,4 +34,32 @@ h2{
       border: 7px double gray;
       padding: 10px;
       margin: 20px;
+} */
+ *{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+
+
+ }
+ #container{
+
+    display: flex;
+    /* changes box into vertically */
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    align-items: center;
+    gap: 10px;
+    
+ }
+
+#container div {
+
+
+   height: 300px;
+   width: 300px;
+   border: 1px solid black;
 }
