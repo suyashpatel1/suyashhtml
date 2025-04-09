@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#navbar {
+   height: 50px; 
+   width: 100%;
+
+}
